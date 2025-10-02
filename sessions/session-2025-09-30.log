@@ -1,0 +1,14 @@
+
+=== TTM session started at 11:15:10 ===
+
+=== [11:15:33] COMMAND: git-lol ===
+ERROR:
+The term 'git-lol' is not recognized as the name of a cmdlet, function, script file, or operable program. Check the spelling of the name, or if a path was included, verify that the path is correct and try again.
+=== END ===
+
+
+=== [11:16:03] COMMAND: git-lol ===
+ERROR:
+The term 'git-lol' is not recognized as the name of a cmdlet, function, script file, or operable program. Check the spelling of the name, or if a path was included, verify that the path is correct and try again.
+=== END ===
+

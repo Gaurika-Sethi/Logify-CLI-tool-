@@ -1,13 +1,30 @@
 {
   "name": "ttm",
   "version": "1.0.0",
-  "description": "",
+  "description": "Track Terminal Monitor - lightweight CLI to record and replay terminal sessions",
   "main": "index.js",
+  "bin": {
+    "ttm": "./index.js"
+  },
+  "type": "module",
+  "dependencies": {
+    "chalk": "^5.6.2",
+    "commander": "^14.0.1"
+  },
   "scripts": {
+    "start": "node index.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "keywords": [],
-  "author": "",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Gaurika-Sethi/Terminal-recorder.git"
+  },
+  "keywords": ["cli", "terminal", "recorder", "ttm"],
+  "author": "Gaurika Sethi",
   "license": "ISC",
-  "type": "commonjs"
+  "bugs": {
+    "url": "https://github.com/Gaurika-Sethi/Terminal-recorder/issues"
+  },
+  "homepage": "https://github.com/Gaurika-Sethi/Terminal-recorder#readme"
 }
+
