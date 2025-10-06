@@ -9,7 +9,9 @@
   "type": "module",
   "dependencies": {
     "chalk": "^5.6.2",
-    "commander": "^14.0.1"
+    "commander": "^14.0.1",
+    "dotenv": "^17.2.3",
+    "openai": "^6.1.0"
   },
   "scripts": {
     "start": "node index.js",
@@ -19,7 +21,12 @@
     "type": "git",
     "url": "git+https://github.com/Gaurika-Sethi/Terminal-recorder.git"
   },
-  "keywords": ["cli", "terminal", "recorder", "ttm"],
+  "keywords": [
+    "cli",
+    "terminal",
+    "recorder",
+    "ttm"
+  ],
   "author": "Gaurika Sethi",
   "license": "ISC",
   "bugs": {
@@ -27,4 +34,3 @@
   },
   "homepage": "https://github.com/Gaurika-Sethi/Terminal-recorder#readme"
 }
-
