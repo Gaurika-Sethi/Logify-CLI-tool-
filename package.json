@@ -1,7 +1,7 @@
 {
   "name": "logify-cli-tool",
   "version": "1.0.3",
-  "description": "Logify - lightweight CLI to record and replay terminal sessions",
+  "description": "A lightweight, colorful CLI tool to record, replay, export and summarize your terminal sessions — perfect for debugging, documentation, and sharing your dev workflow.",
   "main": "index.js",
   "bin": {
     "lgy": "index.js"
