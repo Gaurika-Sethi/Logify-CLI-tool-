@@ -1,0 +1,38 @@
+# Environment & local config
+.env
+*.env
+*.log
+.DS_Store
+
+# Node junk
+node_modules
+npm-debug.log
+yarn.lock
+package-lock.json
+
+# Git files
+.git
+.gitignore
+bfg.jar
+
+# IDE & OS
+.vscode/
+.idea/
+*.swp
+Thumbs.db
+
+# Build / test / dev stuff
+sessions/
+exports/
+tests/
+coverage/
+scripts/
+__pycache__/
+*.bak
+*.tmp
+
+# Project-specific ignores
+notes/
+drafts/
+examples/
+

@@ -42,8 +42,12 @@ Follow these steps to set up the extension locally:
    ```
 
 2. **Install dependencies**
-   ```bash
-   npm install
+   ```bash 
+   npm install commander chalk dotenv openai
+   ```
+
+   ```bash 
+   npm install -g logify-cli-tool
    ```
 
 3. **Add your OpenAI API key to a .env file in the root**
