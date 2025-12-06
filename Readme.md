@@ -1,5 +1,7 @@
 # Logify (CLI tool)
 
+![npm downloads](https://img.shields.io/npm/dt/logify-cli-tool)
+
 ![License: MIT](https://img.shields.io/badge/License-MIT-green.svg) 
 
 ![Built with OpenAI](https://img.shields.io/badge/AI-OpenAI-darkviolet) 
