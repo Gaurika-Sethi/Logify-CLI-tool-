@@ -6,7 +6,7 @@
 
 ![Built with OpenAI](https://img.shields.io/badge/AI-OpenAI-darkviolet) 
 
-![Status](https://img.shields.io/badge/Status-Fully%20Developed-brightgreen)
+![Status](https://img.shields.io/badge/Status-Fully%20Developed-brightgreen) 
 
 
 
